@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Who am I? Toni Espadas
 
 * Where are you from? BCN!
@@ -15,6 +14,3 @@
 * Which industry will you seek employment in? Mainly, Supply Chain, but in the future will be other...
 * What will your future role look like? Data Analyst or D.Scientist
 * What is your career goal? Being part of Police of Analysis Information Department(working for safety people: I trust for a smiling world)
-=======
->>>>>>> 1fbfbf4e03656fbb6cb29959eead3e8e998878b7
-
